@@ -1,0 +1,727 @@
+2019/08/25 13:58:24.309 17040 19616  0   Logger started.
+2019/08/25 13:58:24.357 17040 14292  0!  AsioSettings::FindExternalIP: found 0 external IPs instead of 1!
+2019/08/25 13:58:24.358 17040 14292  0   InitializeRemoteAccessAPI
+2019/08/25 13:58:24.374 17040  4876  0   NetWatchdog: Internet is now connected
+2019/08/25 13:58:24.374 17040 16636  0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2019/08/25 13:58:24.458 17040 14292  0!  AsioSettings::FindExternalIP: found 0 external IPs instead of 1!
+2019/08/25 13:58:24.467 17040 14292  0   QueryVPNRegKey: Subkey 'SYSTEM\CurrentControlSet\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\Configuration' (28) has no 'MatchingDeviceID' entry. Continuing...
+2019/08/25 13:58:24.468 17040 14292  0   QueryVPNRegKey: Subkey 'SYSTEM\CurrentControlSet\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\Properties' (29) has no 'MatchingDeviceID' entry. Continuing...
+2019/08/25 13:58:24.470 17040 19616 S0   SERVICE_CONTROL_POWEREVENT 32787
+2019/08/25 13:58:24.470 17040 19616 S0   SERVICE_CONTROL_POWEREVENT 32787
+2019/08/25 13:58:24.594 17040 14292 S0   DesiredServices: waiting for service winmgmt
+2019/08/25 13:58:24.632 17040 14292 S0!! GetNICInfosExtended: error 111 occurred, buffer needed 34308
+
+
+
+Start:              2019/08/25 13:58:24.778 (UTC+8:00)
+Version:            14.2.2558 
+ID:                 1130394922
+Loglevel:           Info (100)
+License:            10000
+Server:             master11.teamviewer.com
+IC:                 -374303197
+CPU:                Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+CPU extensions:     h9
+OS:                 Win_10.0.17134_W (64-bit)
+IP:                 192.168.93.1,192.168.65.1,192.168.43.98
+MID:                v4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006
+MIDv:               2
+Proxy-Settings:     Type=1 IP= User=
+IE:                 11.950.17134.0
+AppPath:            F:\Ksoftware\TeamViewer\TeamViewer_Service.exe
+UserAccount:        SYSTEM
+
+2019/08/25 13:58:24.783 17040 14292 S0   Resource-Language: 
+2019/08/25 13:58:24.783 17040 14292 S0   RemoteSettingsMDRelationshipWatchDog: DEVICE ISN'T A MANAGED DEVICE
+2019/08/25 13:58:24.784 17040 18944 S0   RemoteSettingsStore: Cleanup all policies.
+2019/08/25 13:58:24.784 17040 14292 S0   RemoteSettingsStoreListener: Establish connection.
+2019/08/25 13:58:24.784 17040 18944 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_TVClientSetting_Policy empty
+2019/08/25 13:58:24.784 17040 18944 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_Antivirus_Policy empty
+2019/08/25 13:58:24.784 17040 18944 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_Backup_Policy empty
+2019/08/25 13:58:24.784 17040 18944 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_RemoteManagement_Policy empty
+2019/08/25 13:58:24.784 17040 18944 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_ActiveDirectory_Policy empty
+2019/08/25 13:58:24.784 17040 18944 S0   RemoteSettingsMDRelationshipWatchDog: DEVICE ISN'T A MANAGED DEVICE
+2019/08/25 13:58:24.786 17040 14292 S0   Using IPC-Port 5939
+2019/08/25 13:58:24.786 17040 14292 S0   SHMR: Initializing shared memory.
+2019/08/25 13:58:24.793 17040 14292 S0   ApiServer::IsApiInstalled: The API is not registered with Windows.
+2019/08/25 13:58:24.794 17040 16636 S0   OSSessionEventTranslator::GenerateEventsForSession: SessionID = 0, username = , primarySession = 0, unusable = 1, locked = 0, connected = 0
+2019/08/25 13:58:24.794 17040 16636 S0   OSSessionEventTranslator::GenerateEventsForSession: SessionID = 1, username = desktop-dkco2nk\dell, primarySession = 1, unusable = 0, locked = 0, connected = 1
+2019/08/25 13:58:24.794 17040 16636 S0   SingleUserSessionDesignator: New active session: 1
+2019/08/25 13:58:27.116 17040 16636 S0   ProcessControlBase[2]: Start GUI process in session 1, pid 19924
+2019/08/25 13:58:27.117 17040 17836 S0   NetworkControl::UpdateOnlineState alwaysOnline=1 delayOffline=0 otherProcess=0 restart=0
+2019/08/25 13:58:27.117 17040 17836 S0   TeamViewer is going online!
+2019/08/25 13:58:27.117 17040 17836 S0   CKeepAliveClientClient::DoReconnectInternal: doing nothing, state = 0
+2019/08/25 13:58:27.117 17040 17836 S0   CAntiMalwareController::IsManagedDeviceChanged(): Machine is not a managed device anymore
+2019/08/25 13:58:27.117 17040 17836 S0   CBackupController::IsManagedDeviceChanged(): Machine is not a managed device anymore
+2019/08/25 13:58:27.117 17040 16636 S0   CKeepAliveClientClient::StartConnect(): Protocol 8 proxy --
+2019/08/25 13:58:27.117 17040 16636 S0   Activating Router carrier
+2019/08/25 13:58:27.884 17040 16636 S0   CAcceptServer::HandleAccept: new connection from 127.0.0.1:62341
+2019/08/25 13:58:27.142 19924 18496 G1   Logger started.
+2019/08/25 13:58:27.144 19924 18496 G1   StringCompare locale: 
+2019/08/25 13:58:27.715 19924 18496 G1   Monitors: Generic PnP Monitor, \\.\DISPLAY1, 1920x1080 (0,0), flags=3, dpi=96
+2019/08/25 13:58:27.867 19924 18496 G1   CMain::LoadResourceDLLs(): No custom resource dll found
+2019/08/25 13:58:27.867 19924 18496 G1   InterProcessBase::SecureNetwork created
+2019/08/25 13:58:27.873 19924 18496 G1   AutoLogin::Login: enabled: 1
+2019/08/25 13:58:27.873 19924 18496 G1   AccountLoginStateMachine::Reset
+2019/08/25 13:58:27.874 19924 18496 G1   VoIP: VoIPCentral: Constructor
+2019/08/25 13:58:27.875 19924 18496 G1!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2019/08/25 13:58:27.875 19924 18496 G1!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2019/08/25 13:58:27.883 19924 18496 G1   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2019/08/25 13:58:27.883 19924 18496 G1   Opening local TCP connection to 127.0.0.1:5939
+2019/08/25 13:58:27.884 19924  2464 G1   Local TCP connection established
+2019/08/25 13:58:27.911 19924  2464 G1   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2019/08/25 13:58:27.911 19924  9316 G1   Received Control_InitIPC_Response processtype=1
+2019/08/25 13:58:27.911 19924  9316 G1   Received Control_InitIPC_Response runningProcesses=3
+2019/08/25 13:58:27.912 19924  9316 G1   Control_InitIPC_Response: all processes 3 completely initialized
+2019/08/25 13:58:27.912 19924 18496 G1   TAF::Handler::ctor: TAF initialized. MM=40
+2019/08/25 13:58:27.914 17040 19284 S0   ProcessControlBase[2]::ProcessConnected: Process pid 19924 in session 1 connected
+2019/08/25 13:58:27.914 17040 16636 S0   NetworkControl::UpdateOnlineState alwaysOnline=1 delayOffline=0 otherProcess=1 restart=0
+2019/08/25 13:58:27.916 19924 18496 G1!! DecryptByteArray exception: StoredDataCipherAES: Invalid Ciphertext, error: "StreamTransformationFilter: invalid PKCS #7 block padding found"
+2019/08/25 13:58:27.916 19924 18496 G1!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2019/08/25 13:58:27.932 19924 18496 G1   MsHtmlVersionInfo: 11.0.17134.950
+2019/08/25 13:58:27.932 19924 18496 G1   ManagerHolderStateMachine: Switching from None to NotReady
+2019/08/25 13:58:27.932 19924  4880 G1   ChatManager::ChatManager: created
+2019/08/25 13:58:27.932 19924  4880 G1   ChatManager::Factory: ChatManager created
+2019/08/25 13:58:27.933 19924  4880 G1   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2019/08/25 13:58:27.933 19924  4880 G1   IncomingCommandRegistration::Start: registering for ready state properties
+2019/08/25 13:58:27.939 19924 20080 G1   ProxySearch: no PAC script detected via WPAD
+2019/08/25 13:58:27.940 19924 20080 G1   ProxySearch: no PAC script detected via WPAD
+2019/08/25 13:58:27.945 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:27.945 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:27.946 19924 18496 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2019/08/25 13:58:27.946 19924 18496 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2019/08/25 13:58:27.946 19924 18496 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2019/08/25 13:58:27.953 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:27.957 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:27.957 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:27.960 19924 18496 G1   UpdateBase::StartUpdate(): Start minor update... (UpdateType=4) (TargetModule=1)
+2019/08/25 13:58:27.961 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:27.962 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:27.998 19924 18496 G1   MachineHooks: Initialized Shm
+2019/08/25 13:58:27.999 19924 18496 G1   MachineHooks: refcount = 1
+2019/08/25 13:58:27.999 19924 18496 G1   MachineHooks: x64 Machine detected
+2019/08/25 13:58:27.999 19924 18496 G1   MachineHooks: w32 Loader is starting
+2019/08/25 13:58:27.999 19924 18496 G1   MachineHooks: x64 Loader is starting
+2019/08/25 13:58:28.015 17040 16636 S0   CToken::GetSystemToken() set session 1
+2019/08/25 13:58:28.023 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:28.024 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:28.024 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:28.024 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:28.024 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:28.024 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:28.024 19924 18496 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 13:58:29.064 19924 18496 G1   Tray created!
+2019/08/25 13:58:29.086 19924 18040 G1   UpdateBase::StartVersionFileDownload(): Start download of version file...(Version : 3.0, Channel: 1 )
+2019/08/25 13:58:29.089 19924 17708 G1   ChangeThreadDesktop(): SetThreadDesktop to default successful
+2019/08/25 13:58:29.091 19924 18496 G1   ApiServer::IsApiInstalled: The API is not registered with Windows.
+2019/08/25 13:58:29.103 19924 18496 G1   MainBaseWin::ExecuteMain: MainThread-Id = 18496
+2019/08/25 13:58:30.068 17040 16636 S0   IpcLoaderProcessHandlerWin: Loader process started, pid = 6992
+2019/08/25 13:58:30.078  6992 18824 L32  Loader started with: "F:\Ksoftware\TeamViewer\tv_w32.exe" --action hooks  --log F:\Ksoftware\TeamViewer\TeamViewer14_Logfile.log  
+2019/08/25 13:58:30.084 17040 19284 S0   CToken::GetSystemToken() set session 1
+2019/08/25 13:58:30.130  6992 18824 L32  Starting Loader
+2019/08/25 13:58:27.998 19924 18496 H32  Loader: SharedMem Connected (seg = 0xa350000, refcnt = 1)
+2019/08/25 13:58:27.998 19924 18496 H32  teamviewer.exe: SharedMem Connected (seg = 0xa350000, refcnt = 2)
+2019/08/25 13:58:29.049 19924 18496 H32  teamviewer.exe: SharedMem_SetLogLevel: 0 -> 200
+2019/08/25 13:58:32.111 17040 19284 S0   IpcLoaderProcessHandlerWin: Loader process started, pid = 3912
+2019/08/25 13:58:32.117  3912 19564 L64  Loader started with: "F:\Ksoftware\TeamViewer\tv_x64.exe" --action hooks  --log F:\Ksoftware\TeamViewer\TeamViewer14_Logfile.log  
+2019/08/25 13:58:32.173  3912 19564 L64  Starting Loader
+2019/08/25 13:58:33.987 17040 19284 S0   CTcpConnectionBase[1]::HandleConnectTimeout(). Connect timed out to router6.teamviewer.com:5938
+2019/08/25 13:58:33.987 17040 16636 S0!  CProcessCommandHandlerKeepAlive[1]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 13:58:33.987 17040  5236 S0!  CTcpConnectionBase[1]::HandleConnect: Connect aborted to dest-ip router6.teamviewer.com:5938 with error system:995.
+2019/08/25 13:58:33.987 17040 16636 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router6.teamviewer.com failed
+2019/08/25 13:58:33.987 17040  5236 S0   CKeepAliveClientClient::StartConnect(): Protocol 4 proxy --
+2019/08/25 13:58:33.987 17040  5236 S0   Activating Router carrier
+2019/08/25 13:58:38.989 17040 16636 S0!! HttpRequestImpl::CurlFinished(): curl request failed: Timeout was reached (28), Connection timed out after 5000 milliseconds
+2019/08/25 13:58:38.989 17040 16636 S0!! Port443Connection::RequestFinishedCallback: failed with HTTP status code = 0
+2019/08/25 13:58:38.989 17040 17836 S0!  KeepAliveSessionOutgoing[router13.teamviewer.com]::ConnectEndedHandler(): State is 1
+2019/08/25 13:58:38.989 17040  5236 S0!  CProcessCommandHandlerKeepAlive[2]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 13:58:38.989 17040  5236 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router13.teamviewer.com failed
+2019/08/25 13:58:38.990 17040 16636 S0   CKeepAliveClientClient::StartConnect(): Protocol 2 proxy --
+2019/08/25 13:58:38.990 17040 16636 S0   Activating Router carrier
+2019/08/25 13:58:43.990 17040 19284 S0!! HttpRequestImpl::CurlFinished(): curl request failed: Timeout was reached (28), Connection timed out after 5000 milliseconds
+2019/08/25 13:58:43.991 17040 19284 S0!! CHttpConnectionOutgoing::ResolveDNSName: resolving DNS name failed, status = Failed, HTTP response code = 0, URL = 'http://router8.teamviewer.com/cname.aspx'
+2019/08/25 13:58:43.991 17040 19284 S0!! CHttpConnectionOutgoing::HandleResolveDNS: empty address, m_ConnectionState=0
+2019/08/25 13:58:43.991 17040  5236 S0!  CProcessCommandHandlerKeepAlive[3]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 13:58:43.991 17040  5236 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router8.teamviewer.com failed
+2019/08/25 13:58:43.991 17040 16636 S0   CKeepAliveClientClient::StartConnect(): Protocol 1 proxy --
+2019/08/25 13:58:43.991 17040 16636 S0   Activating Router carrier
+2019/08/25 13:58:49.290 19924 17708 G1   UpdateBase::OnDownloadFinishedVersionFile() Version file successfully downloaded.
+2019/08/25 13:58:49.290 19924 17708 G1   VersionFileHandler::CheckVersionFile(): Found version "14.5.1691"
+2019/08/25 13:58:49.290 19924 17708 G1   VersionFileHandler::CheckVersionFile(): Found version "DES9skbNgAw6pizZuCIhpg=="
+2019/08/25 13:58:49.292 19924 17708 G1   VersionFileHandler::OnDownloadFinishedVersionFile() major='' minor='14.5.1691'
+2019/08/25 13:58:49.293 19924 17708 G1   tvhelper::CThread::weakJoin - thread {Not-any-thread} has succesfully detached itself
+2019/08/25 13:59:13.992 17040  5236 S0!! HttpRequestImpl::CurlFinished(): curl request failed: Timeout was reached (28), Operation timed out after 30000 milliseconds with 0 bytes received
+2019/08/25 13:59:13.993 17040  5236 S0!! CHttpConnectionOutgoing::ResolveDNSName: resolving DNS name failed, status = Failed, HTTP response code = 0, URL = 'http://router8.teamviewer.com/cname.aspx'
+2019/08/25 13:59:13.993 17040  5236 S0!! CHttpConnectionOutgoing::HandleResolveDNS: empty address, m_ConnectionState=0
+2019/08/25 13:59:13.993 17040 19284 S0!  CProcessCommandHandlerKeepAlive[4]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 13:59:13.993 17040 19284 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router8.teamviewer.com failed
+2019/08/25 13:59:13.995 17040 19284 S0   Waiting 1 seconds to connect to KeepAlive again
+2019/08/25 13:59:14.996 17040 19284 S0   CKeepAliveClientClient::StartConnect(): Protocol 8 proxy --
+2019/08/25 13:59:14.996 17040 19284 S0   Activating Router carrier
+2019/08/25 13:59:19.694 17040 19284 S0   KeepAliveSessionOutgoing::ConnectSuccessHandler(): KeepAliveConnect to router2.teamviewer.com successful
+2019/08/25 13:59:19.694 17040 19284 S0   KeepAliveSessionOutgoing::KeepAliveChannelInitialized(): KeepAliveConnection to router2.teamviewer.com initialized
+2019/08/25 13:59:19.694 17040 19284 S0!! KeepAliveSession::KeepAliveChannelInitialized(): KeepAlive-Connection initialized with ID 0 (IP: 2401:c900:1301:109::3), SendQueue 0 (0 Bytes), SendIndex 0, AckIndex 0, RemoteSessionID 5
+2019/08/25 13:59:19.694 17040 19284 S0!  KeepAliveSession::SendCompleteQueue(): SendQueue: 0 (0 Bytes), RemoteSession 5 (ClientID 0), Time: 0 ms
+2019/08/25 13:59:19.694 17040 19284 S0   IdentifyRequest: ID = 1130394922, IC = -374303197, IsTemporaryID = 0, InitiativeGUID = 938953a3-9960-4bdc-a5b5-eacc2baa5509, CanStoreGUID = 1, MIDHistory = {0x8cec4ba291e1_1d3d1ee2cdc07fa_645865821|u4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b|v4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006|windows034c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006}, MIDv = 2, MaxSupportedMIDv = 3, RebootHash = {fc048989-7988-c9b3-8c3f-5b6ec5a8372e}, MIDFlags = 1, MIDForceUpdateFlags = 0, AttractionGUID = 00000000-0000-0000-0000-000000000000
+2019/08/25 13:59:22.493 17040 16636 S0   TVRouterClock: received router time: 20190825T055922.396884
+2019/08/25 13:59:22.493 17040 16636 S0   TVRouterClock Schedule next request in 43200 seconds
+2019/08/25 13:59:33.583 17040 17836 S0!  Carrier[5]::EndCarrierInternal: Discarded 1 commands, ClientID 0, ShutdownGracefully 1, SessionType_MainKeepAliveConnection
+2019/08/25 13:59:33.583 17040 17836 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 1117218890 connection: 1 remoteConnection: 3753930233 ], Error: RCommand (Cancel)
+2019/08/25 13:59:33.583 17040 17836 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 1117218890 connection: 1 remoteConnection: 3753930233 ] Resetting connection due to error RCommand (Cancel)
+2019/08/25 13:59:33.583 17040 17836 S0!! Communication::Messenger::SendAnonymousMessage: error: Cancel
+2019/08/25 13:59:33.585 17040 17836 S0   CKeepAliveClientClient::OnKeepAliveSucceeded(): Protocol 8 proxy --
+2019/08/25 13:59:33.585 17040 17836 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 13:59:33.585 17040 17836 S0   CKeepAliveClientClient::HandleKeepAliveEnded: doing nothing, state = 4
+2019/08/25 13:59:33.585 17040 17836 S0!  KeepAliveSessionOutgoing::ConnectEndedHandler(): KeepAliveConnection with router2.teamviewer.com ended
+2019/08/25 13:59:34.586 17040 16636 S0   CKeepAliveClientClient::StartConnect(): Protocol 8 proxy --
+2019/08/25 13:59:34.586 17040 16636 S0   Activating Router carrier
+2019/08/25 13:59:39.664 17040 16636 S0   CTcpConnectionBase[6]::HandleConnectTimeout(). Connect timed out to router14.teamviewer.com:5938
+2019/08/25 13:59:39.664 17040  5236 S0!  CProcessCommandHandlerKeepAlive[6]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 13:59:39.664 17040  5236 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router14.teamviewer.com failed
+2019/08/25 13:59:39.664 17040 17836 S0!  CTcpConnectionBase[6]::HandleConnect: Connect aborted to dest-ip router14.teamviewer.com:5938 with error system:995.
+2019/08/25 13:59:39.664 17040 16636 S0   CKeepAliveClientClient::StartConnect(): Protocol 4 proxy --
+2019/08/25 13:59:39.664 17040 16636 S0   Activating Router carrier
+2019/08/25 13:59:42.411 17040 17836 S0!! CurlMultiShared::ExtractConnectSocketFor(): curl didn't release socket
+2019/08/25 13:59:42.411 17040 17836 S0!! HttpRequestImpl::CurlFinished: CONNECT succeeded but couldn't extract socket
+2019/08/25 13:59:42.411 17040 17836 S0!! Port443Connection::RequestFinishedCallback: failed with HTTP status code = 0
+2019/08/25 13:59:42.411 17040 20484 S0!  KeepAliveSessionOutgoing[router1.teamviewer.com]::ConnectEndedHandler(): State is 1
+2019/08/25 13:59:42.411 17040 19284 S0!  CProcessCommandHandlerKeepAlive[7]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 13:59:42.411 17040 19284 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router1.teamviewer.com failed
+2019/08/25 13:59:42.411 17040 20484 S0   CKeepAliveClientClient::StartConnect(): Protocol 2 proxy --
+2019/08/25 13:59:42.412 17040 20484 S0   Activating Router carrier
+2019/08/25 13:59:45.583 17040 19284 S0   IConnection[5]::HandleShutdownTimer(): Shutdown of connection took longer than 12 seconds. Closing Connection. (ConnectionType Type_Tcp)
+2019/08/25 13:59:55.414 17040 16636 S0!! HttpRequestImpl::CurlFinished(): curl request failed: Timeout was reached (28), Operation timed out after 8000 milliseconds with 14 out of 17 bytes received
+2019/08/25 13:59:55.414 17040 17836 S0!  CProcessCommandHandlerKeepAlive[8]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 13:59:55.414 17040 17836 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router16.teamviewer.com failed
+2019/08/25 13:59:55.414 17040 19284 S0   CKeepAliveClientClient::StartConnect(): Protocol 1 proxy --
+2019/08/25 13:59:55.414 17040 19284 S0   Activating Router carrier
+2019/08/25 14:00:00.416 17040 20484 S0!! HttpRequestImpl::CurlFinished(): curl request failed: Timeout was reached (28), Connection timed out after 5001 milliseconds
+2019/08/25 14:00:00.416 17040 20484 S0!! CHttpConnectionOutgoing::ResolveDNSName: resolving DNS name failed, status = Failed, HTTP response code = 0, URL = 'http://router12.teamviewer.com/cname.aspx'
+2019/08/25 14:00:00.416 17040 20484 S0!! CHttpConnectionOutgoing::HandleResolveDNS: empty address, m_ConnectionState=0
+2019/08/25 14:00:00.417 17040 17836 S0!  CProcessCommandHandlerKeepAlive[9]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 14:00:00.417 17040 17836 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router12.teamviewer.com failed
+2019/08/25 14:00:00.417 17040 17836 S0   NetWatchdog: Connect failed first time!
+2019/08/25 14:00:00.417 17040 17836 S0   NetWatchdog: Internet is now disconnected
+2019/08/25 14:00:00.418 17040 17836 S0   Waiting 1 seconds to connect to KeepAlive again
+2019/08/25 14:00:01.418 17040 16636 S0   CKeepAliveClientClient::StartConnect(): Protocol 8 proxy --
+2019/08/25 14:00:01.418 17040 16636 S0   Activating Router carrier
+2019/08/25 14:00:02.195 17040 16636 S0   KeepAliveSessionOutgoing::ConnectSuccessHandler(): KeepAliveConnect to router14.teamviewer.com successful
+2019/08/25 14:00:02.195 17040 16636 S0   KeepAliveSessionOutgoing::KeepAliveChannelInitialized(): KeepAliveConnection to router14.teamviewer.com initialized
+2019/08/25 14:00:02.195 17040 16636 S0!! KeepAliveSession::KeepAliveChannelInitialized(): KeepAlive-Connection initialized with ID 0 (IP: 2401:c900:1801:51::4), SendQueue 1 (1113 Bytes), SendIndex 0, AckIndex 0, RemoteSessionID 10
+2019/08/25 14:00:02.195 17040 16636 S0   RCmdAckMap::RemoveAckHandler(): AckMapEntry not found, CmdID 98706315, TargetID 40, SenderID: 41, AckResult: 8, Payload: 0 Bytes
+2019/08/25 14:00:02.195 17040 16636 S0!  KeepAliveSession::SendCompleteQueue(): SendQueue: 0 (0 Bytes), RemoteSession 10 (ClientID 0), Time: 0 ms
+2019/08/25 14:00:02.195 17040 16636 S0   IdentifyRequest: ID = 1130394922, IC = -374303197, IsTemporaryID = 0, InitiativeGUID = 938953a3-9960-4bdc-a5b5-eacc2baa5509, CanStoreGUID = 1, MIDHistory = {0x8cec4ba291e1_1d3d1ee2cdc07fa_645865821|u4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b|v4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006|windows034c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006}, MIDv = 2, MaxSupportedMIDv = 3, RebootHash = {fc048989-7988-c9b3-8c3f-5b6ec5a8372e}, MIDFlags = 1, MIDForceUpdateFlags = 0, AttractionGUID = 00000000-0000-0000-0000-000000000000
+2019/08/25 14:00:03.027 17040 20484 S0   TVRouterClock: received router time: 20190825T060003.947361
+2019/08/25 14:00:03.027 17040 20484 S0   TVRouterClock Schedule next request in 43200 seconds
+2019/08/25 14:00:04.695 17040 16636 S0   Login::Identify::ManageLogin(): ID: 1130394922 IC -374303197 MIDv2
+2019/08/25 14:00:04.695 17040 16636 S0   NetWatchdog: Internet is now connected
+2019/08/25 14:00:04.697 17040 16636 S0   CKeepAliveClientClient::OnKeepAliveSucceeded(): Protocol 8 proxy --
+2019/08/25 14:00:04.697 17040 16636 S0   TeamViewerIDTracker::UpdateMachineID: New machineID = 1130394922
+2019/08/25 14:00:04.698 19924  9316 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2019/08/25 14:00:04.698 19924 21120 G1   IDLabelContent::UpdateImpl() IDs changed: SessionID "1130394922", TSUserID "0", ServerID "0"
+2019/08/25 14:00:04.699 17040 18744 S0   BonjourDiscoveryWin::DNSServiceHandleEvents: Reloading interfaces.
+2019/08/25 14:00:04.701 19924  9316 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 14:00:04.701 19924  9316 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 14:00:12.809 17040 19284 S0   LicenseTracker::UpdateMachineLicense() local license differs from master license
+2019/08/25 14:00:12.810 17040 19284 S0   Non-Commercial use
+2019/08/25 14:00:12.830 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 14:00:12.854 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 14:00:14.915 17040  5236 S0   SyncManagersFunction::Start: current managerlist size: 0
+2019/08/25 14:00:14.915 17040  5236 S0   Client logged in and online
+2019/08/25 14:00:14.916 19924 19868 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2019/08/25 14:00:14.916 19924 19868 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: c5c4146d-b700-40ff-9e7d-9cf025e4cbfb)
+2019/08/25 14:00:14.916 19924 19868 G1   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2019/08/25 14:00:14.917 17040 20484 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 25, RegistrationID: c5c4146d-b700-40ff-9e7d-9cf025e4cbfb, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 14:00:14.917 19924 19868 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: d435245b-4f9a-42ad-bf42-80ee06cf16b7)
+2019/08/25 14:00:14.917 19924  8892 G1   Account::UpdateState: KA = 1, active = 1
+2019/08/25 14:00:14.917 17040 19284 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 61, RegistrationID: d435245b-4f9a-42ad-bf42-80ee06cf16b7, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 14:00:14.918 19924 19868 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 0d7548e1-4bfb-4600-9cff-6e82d8f01fc7)
+2019/08/25 14:00:14.918 17040  5236 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 67, RegistrationID: 0d7548e1-4bfb-4600-9cff-6e82d8f01fc7, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 14:00:14.918 19924 19868 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 5db27a9d-a1ed-4ea5-b303-0dc77c1cb55c)
+2019/08/25 14:00:14.918 17040  5236 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 86, RegistrationID: 5db27a9d-a1ed-4ea5-b303-0dc77c1cb55c, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 14:00:14.919 17040  5236 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2019/08/25 14:00:14.919 19924 19868 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 19a446be-acc4-40a5-9192-ff55f019dce1)
+2019/08/25 14:00:14.919 19924 19868 G1   TAF::Handler::RequestServerURL: Request new server URL from master.
+2019/08/25 14:00:14.919 17040 19284 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 30, RegistrationID: 19a446be-acc4-40a5-9192-ff55f019dce1, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 14:00:14.919 17040 20484 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2019/08/25 14:00:14.920 19924 19868 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: e508f507-ec6d-4544-a9e2-2719307ee30e)
+2019/08/25 14:00:14.920 17040 20484 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 34, RegistrationID: e508f507-ec6d-4544-a9e2-2719307ee30e, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 14:00:14.920 17040 20484 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2019/08/25 14:00:14.920 17040 19284 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2019/08/25 14:00:14.921 17040 19284 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2019/08/25 14:00:14.921 19924 19868 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2019/08/25 14:00:14.921 17040 19284 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2019/08/25 14:00:14.921 17040 19284 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2019/08/25 14:00:14.921 17040 19284 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2019/08/25 14:00:14.922 17040 19284 S0   CSendCommandToMaster::SendBCommandToMaster: CC=3 CT=38
+2019/08/25 14:00:14.988 19924 18496 G1   Account::SetLoginState: new state: 2
+2019/08/25 14:00:14.988 19924 18496 G1   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2019/08/25 14:00:14.989 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 14:00:14.992 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 14:00:15.391 19924 19868 G1   TAF::Handler::ServerUrlUpdate: Received new server URL: https://client.teamviewer.com/taf/index.aspx
+2019/08/25 14:00:15.391 19924  1860 G1   TAF::Hander::RequestListInternal: Request new list for license type=10000
+2019/08/25 14:00:17.810 17040 16636 S0   AsyncMessaging::UnregisterAtAsyncMessageProvider(): Unregister successful
+2019/08/25 14:00:18.735 19924 18040 G1   IpcRouterClock: received router time: 20190825T060019.650361
+2019/08/25 14:00:20.393 19924 18040 G1!! HttpRequestImpl::CurlFinished(): curl request failed: Timeout was reached (28), Operation timed out after 5001 milliseconds with 0 out of 0 bytes received
+2019/08/25 14:00:20.393 19924 18040 G1!! TAF::Handler::RequestListInternal: Communication with https://client.teamviewer.com/taf/index.aspx failed
+2019/08/25 14:40:29.043 19924 18496 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=343656)
+2019/08/25 14:41:28.024 19924  8892 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=0, LastAutoUpdate=1565408666, AdminRights=1
+2019/08/25 14:41:28.026 19924  8892 G1   UpdateBase::StartUpdate: autoUpdateCb: AutoUpdate is available, continuing by downloading new VersionFile
+2019/08/25 14:41:28.026 19924  8892 G1   UpdateBase::StartUpdate(): Start minor update... (UpdateType=4) (TargetModule=1)
+2019/08/25 14:41:28.027 19924  8892 G1   UpdateBase::StartVersionFileDownload(): Start download of version file...(Version : 3.0, Channel: 1 )
+2019/08/25 14:41:28.029 19924  4572 G1   ChangeThreadDesktop(): SetThreadDesktop to default successful
+2019/08/25 14:41:31.675 19924  4572 G1   UpdateBase::OnDownloadFinishedVersionFile() Version file successfully downloaded.
+2019/08/25 14:41:31.675 19924  4572 G1   VersionFileHandler::CheckVersionFile(): Found version "14.5.1691"
+2019/08/25 14:41:31.675 19924  4572 G1   VersionFileHandler::CheckVersionFile(): Found version "DES9skbNgAw6pizZuCIhpg=="
+2019/08/25 14:41:31.676 19924  4572 G1   VersionFileHandler::OnDownloadFinishedVersionFile() major='' minor='14.5.1691'
+2019/08/25 14:41:31.679 19924 18040 G1   UpdateBase::DetermineUpdateType: autoUpdateCb: Update check found new update, performing AutoUpdate
+2019/08/25 14:41:31.679 19924 18040 G1   UpdateBase::DetermineUpdateType: autoUpdateCb: no major updates
+2019/08/25 14:41:31.681 19924 21544 G1   ChangeThreadDesktop(): SetThreadDesktop to default successful
+2019/08/25 14:41:41.091 19924 21544 G1!! UpdateBase::OnDownloadFinishedUpdateFile - CInetDownload::ThreadRun - ErrorReceiveResponse 12002
+2019/08/25 14:41:41.091 19924 21544 G1   tvhelper::CThread::weakJoin - thread {Not-any-thread} has succesfully detached itself
+2019/08/25 15:28:29.040 19924 18496 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=349234)
+2019/08/25 15:29:28.063 19924 21120 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=0, LastAutoUpdate=1566715288, AdminRights=1
+2019/08/25 15:49:29.042 19924 18496 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=337812)
+2019/08/25 15:50:28.080 19924 21120 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=0, LastAutoUpdate=1566715288, AdminRights=1
+2019/08/25 15:51:45.414 17040  5236 S0!  CTcpConnection[10]::KeepAliveBeepTimerHandler(): No KeepAliveBeepAnswer was sent. Stopping connection.
+2019/08/25 15:51:57.415 17040 19284 S0   IConnection[10]::HandleShutdownTimer(): Shutdown of connection took longer than 12 seconds. Closing Connection. (ConnectionType Type_Tcp)
+2019/08/25 15:52:02.450 17040 20484 S0   CTcpConnectionBase[11]::HandleConnectTimeout(). Connect timed out to router14.teamviewer.com:5938
+2019/08/25 15:52:02.450 17040 19284 S0!  CTcpConnectionBase[11]::HandleConnect: Connect aborted to dest-ip router14.teamviewer.com:5938 with error system:995.
+2019/08/25 15:52:08.451 17040 19284 S0   CTcpConnectionBase[12]::HandleConnectTimeout(). Connect timed out to router14.teamviewer.com:5938
+2019/08/25 15:52:08.451 17040 17836 S0!  CTcpConnectionBase[12]::HandleConnect: Connect aborted to dest-ip router14.teamviewer.com:5938 with error system:995.
+2019/08/25 15:52:17.452 17040 20484 S0   CTcpConnectionBase[13]::HandleConnectTimeout(). Connect timed out to router14.teamviewer.com:5938
+2019/08/25 15:52:17.452 17040  5236 S0!  CTcpConnectionBase[13]::HandleConnect: Connect aborted to dest-ip router14.teamviewer.com:5938 with error system:995.
+2019/08/25 15:52:27.459 17040 17836 S0   CTcpConnectionBase[14]::HandleConnectTimeout(). Connect timed out to router14.teamviewer.com:5938
+2019/08/25 15:52:27.459 17040 10804 S0!  CTcpConnectionBase[14]::HandleConnect: Connect aborted to dest-ip router14.teamviewer.com:5938 with error system:995.
+2019/08/25 15:52:37.460 17040 17836 S0   CTcpConnectionBase[15]::HandleConnectTimeout(). Connect timed out to router14.teamviewer.com:5938
+2019/08/25 15:52:37.460 17040 20484 S0!  CTcpConnectionBase[15]::HandleConnect: Connect aborted to dest-ip router14.teamviewer.com:5938 with error system:995.
+2019/08/25 15:52:47.461 17040 20484 S0   CTcpConnectionBase[16]::HandleConnectTimeout(). Connect timed out to router14.teamviewer.com:5938
+2019/08/25 15:52:47.461 17040 17836 S0!  CTcpConnectionBase[16]::HandleConnect: Connect aborted to dest-ip router14.teamviewer.com:5938 with error system:995.
+2019/08/25 15:52:57.462 17040 17836 S0   CTcpConnectionBase[17]::HandleConnectTimeout(). Connect timed out to router14.teamviewer.com:5938
+2019/08/25 15:52:57.462 17040  5236 S0!  CTcpConnectionBase[17]::HandleConnect: Connect aborted to dest-ip router14.teamviewer.com:5938 with error system:995.
+2019/08/25 15:53:07.525 17040 10804 S0   CTcpConnectionBase[18]::HandleConnectTimeout(). Connect timed out to router14.teamviewer.com:5938
+2019/08/25 15:53:07.525 17040 19284 S0!  CTcpConnectionBase[18]::HandleConnect: Connect aborted to dest-ip router14.teamviewer.com:5938 with error system:995.
+2019/08/25 15:53:12.864 17040  5236 S0   CarrierReconnectLogic[10]::StartReconnectAsClientInternal: TCP connect successful
+2019/08/25 15:53:13.143 17040 19284 S0!  TcpCarrier[10]::ProcessReconnectToSessionAnswer(): Reconnect failed with client 867640376
+2019/08/25 15:53:13.143 17040 19284 S0   Carrier[10]::EndCarrierInternal(): ClientID: 867640376 SupportsEndSession: 1, SupportsCCmd2: 1, SessionType_MainKeepAliveConnection, SendQueue: 1 (0 Bytes), CurrentSendQueue: 0 (0 Bytes), SendCache: 1 (0 Bytes)
+2019/08/25 15:53:13.144 17040 19284 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 15:53:13.144 17040 19284 S0   CKeepAliveClientClient::HandleKeepAliveEnded: doing nothing, state = 4
+2019/08/25 15:53:13.144 17040 19284 S0!  KeepAliveSessionOutgoing::ConnectEndedHandler(): KeepAliveConnection with router14.teamviewer.com ended
+2019/08/25 15:53:13.145 19924 21120 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2019/08/25 15:53:13.145 19924 21120 G1   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2019/08/25 15:53:13.145 19924 21120 G1   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: c5c4146d-b700-40ff-9e7d-9cf025e4cbfb)
+2019/08/25 15:53:13.145 19924 21120 G1   AccountLoginStateMachine::RegisterForKeepAlive: lost connection
+2019/08/25 15:53:13.145 19924 19868 G1   Account::UpdateState: KA = 0, active = 1
+2019/08/25 15:53:13.145 19924 21120 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 15:53:13.145 19924 21120 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 15:53:13.145 17040  5236 S0   SecureNetworkIPCAdapter::UnregisterSharedBCmdCallback(): RegistrationID: c5c4146d-b700-40ff-9e7d-9cf025e4cbfb
+2019/08/25 15:53:13.178 19924 18496 G1   Account::SetLoginState: new state: 0
+2019/08/25 15:53:13.179 19924 18496 G1   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2019/08/25 15:53:13.179 19924  8892 G1   ChatManager::ClearNonAccountChat
+2019/08/25 15:53:13.180 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 15:53:13.186 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 15:53:14.144 17040 10804 S0   CKeepAliveClientClient::StartConnect(): Protocol 8 proxy --
+2019/08/25 15:53:14.144 17040 10804 S0   Activating Router carrier
+2019/08/25 15:53:14.785 17040 20484 S0   KeepAliveSessionOutgoing::ConnectSuccessHandler(): KeepAliveConnect to router8.teamviewer.com successful
+2019/08/25 15:53:14.785 17040 20484 S0   KeepAliveSessionOutgoing::KeepAliveChannelInitialized(): KeepAliveConnection to router8.teamviewer.com initialized
+2019/08/25 15:53:14.785 17040 20484 S0!! KeepAliveSession::KeepAliveChannelInitialized(): KeepAlive-Connection initialized with ID 0 (IP: 2401:c900:1601:161::9), SendQueue 0 (0 Bytes), SendIndex 0, AckIndex 0, RemoteSessionID 11
+2019/08/25 15:53:14.785 17040 20484 S0!  KeepAliveSession::SendCompleteQueue(): SendQueue: 0 (0 Bytes), RemoteSession 11 (ClientID 0), Time: 0 ms
+2019/08/25 15:53:14.785 17040 20484 S0   IdentifyRequest: ID = 1130394922, IC = -374303197, IsTemporaryID = 0, InitiativeGUID = 938953a3-9960-4bdc-a5b5-eacc2baa5509, CanStoreGUID = 1, MIDHistory = {0x8cec4ba291e1_1d3d1ee2cdc07fa_645865821|u4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b|v4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006|windows034c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006}, MIDv = 2, MaxSupportedMIDv = 3, RebootHash = {fc048989-7988-c9b3-8c3f-5b6ec5a8372e}, MIDFlags = 1, MIDForceUpdateFlags = 0, AttractionGUID = 00000000-0000-0000-0000-000000000000
+2019/08/25 15:53:15.291 17040 19284 S0   TVRouterClock: received router time: 20190825T075316.297564
+2019/08/25 15:53:15.291 17040 19284 S0   TVRouterClock Schedule next request in 43200 seconds
+2019/08/25 15:53:15.291 19924  8892 G1   IpcRouterClock: received router time: 20190825T075316.297564
+2019/08/25 15:53:20.871 17040 17836 S0   Login::Identify::ManageLogin(): ID: 1130394922 IC -374303197 MIDv2
+2019/08/25 15:53:20.874 17040 17836 S0   CKeepAliveClientClient::OnKeepAliveSucceeded(): Protocol 8 proxy --
+2019/08/25 15:53:25.243 17040 10804 S0   Non-Commercial use
+2019/08/25 15:53:31.860 17040 10804 S0   SyncManagersFunction::Start: current managerlist size: 0
+2019/08/25 15:53:31.861 17040 10804 S0   Client logged in and online
+2019/08/25 15:53:31.862 19924  8892 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2019/08/25 15:53:31.862 19924  8892 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 96811dea-f1b2-422e-aa0c-4b84562cb909)
+2019/08/25 15:53:31.862 19924  8892 G1   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2019/08/25 15:53:31.862 17040 19284 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 25, RegistrationID: 96811dea-f1b2-422e-aa0c-4b84562cb909, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 15:53:31.863 19924  8892 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 38aa7663-6d12-493f-a6a4-54a60ab71d5b)
+2019/08/25 15:53:31.863 19924  8892 G1   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: d435245b-4f9a-42ad-bf42-80ee06cf16b7)
+2019/08/25 15:53:31.863 19924 17012 G1   Account::UpdateState: KA = 1, active = 1
+2019/08/25 15:53:31.863 19924  8892 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2019/08/25 15:53:31.863 17040 17836 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 61, RegistrationID: 38aa7663-6d12-493f-a6a4-54a60ab71d5b, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 15:53:31.863 17040 17836 S0   SecureNetworkIPCAdapter::UnregisterSharedBCmdCallback(): RegistrationID: d435245b-4f9a-42ad-bf42-80ee06cf16b7
+2019/08/25 15:53:31.889 19924 18496 G1   Account::SetLoginState: new state: 2
+2019/08/25 15:53:31.889 19924 18496 G1   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2019/08/25 15:53:31.890 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 15:53:31.892 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 15:53:43.862 17040 20484 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380682 remoteConnection: 0 ], Error: RCommand (Timeout)
+2019/08/25 15:53:43.862 17040 20484 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380682 remoteConnection: 0 ] Resetting connection due to error RCommand (Timeout)
+2019/08/25 15:53:43.862 17040 20484 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, retrying (2 retries remaining) BCmd: CC=19 CT=1
+2019/08/25 15:53:43.862 17040 20484 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, retrying (2 retries remaining) BCmd: CC=19 CT=3
+2019/08/25 15:53:55.865 17040  5236 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380683 remoteConnection: 0 ], Error: RCommand (Timeout)
+2019/08/25 15:53:55.865 17040  5236 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380683 remoteConnection: 0 ] Resetting connection due to error RCommand (Timeout)
+2019/08/25 15:53:55.865 17040  5236 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, retrying (1 retries remaining) BCmd: CC=19 CT=1
+2019/08/25 15:53:55.865 17040  5236 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, retrying (1 retries remaining) BCmd: CC=19 CT=3
+2019/08/25 15:53:55.865 17040 17836 S0!! SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 13, connection ID: 1295380683] errorcode: Timeout(1)
+2019/08/25 15:54:07.868 17040 19284 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380684 remoteConnection: 0 ], Error: RCommand (Timeout)
+2019/08/25 15:54:07.868 17040 19284 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380684 remoteConnection: 0 ] Resetting connection due to error RCommand (Timeout)
+2019/08/25 15:54:07.868 17040 19284 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, not retrying (0 retries would remain) BCmd: CC=19 CT=1
+2019/08/25 15:54:07.868 17040 19284 S0!  ConfigurationControllerImpl::HandleProviderRegistrationResponseInternal(): register failed with error RCommand:1
+2019/08/25 15:54:07.868 17040 19284 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, not retrying (0 retries would remain) BCmd: CC=19 CT=3
+2019/08/25 15:54:07.868 17040 19284 S0!! AsyncMessaging::UnregisterAtAsyncMessageProvider(): Unregister failed: Timeout
+2019/08/25 15:54:08.961 17040  5236 S0   RCmdAckMap::RemoveAckHandler(): AckMapEntry not found, CmdID 98706357, TargetID 13, SenderID: 764467096, AckResult: 1, Payload: 2393 Bytes
+2019/08/25 15:54:19.870 17040 19284 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380685 remoteConnection: 0 ], Error: RCommand (Timeout)
+2019/08/25 15:54:19.870 17040 19284 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380685 remoteConnection: 0 ] Resetting connection due to error RCommand (Timeout)
+2019/08/25 15:54:19.870 17040 19284 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, retrying (2 retries remaining) BCmd: CC=19 CT=3
+2019/08/25 15:54:19.870 17040 20484 S0!! SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 13, connection ID: 1295380685] errorcode: Timeout(1)
+2019/08/25 15:54:31.873 17040 20484 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380686 remoteConnection: 0 ], Error: RCommand (Timeout)
+2019/08/25 15:54:31.873 17040 20484 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380686 remoteConnection: 0 ] Resetting connection due to error RCommand (Timeout)
+2019/08/25 15:54:31.873 17040 20484 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, retrying (1 retries remaining) BCmd: CC=19 CT=3
+2019/08/25 15:54:31.873 17040 10804 S0!! SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 13, connection ID: 1295380686] errorcode: Timeout(1)
+2019/08/25 15:54:43.875 17040 19284 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380687 remoteConnection: 0 ], Error: RCommand (Timeout)
+2019/08/25 15:54:43.875 17040 19284 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380687 remoteConnection: 0 ] Resetting connection due to error RCommand (Timeout)
+2019/08/25 15:54:43.875 17040 19284 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, not retrying (0 retries would remain) BCmd: CC=19 CT=3
+2019/08/25 15:54:43.875 17040 19284 S0!! AsyncMessaging::UnregisterAtAsyncMessageProvider(): Unregister failed: Timeout
+2019/08/25 15:54:43.875 17040  5236 S0!! SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 13, connection ID: 1295380687] errorcode: Timeout(1)
+2019/08/25 15:54:55.878 17040 10804 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380688 remoteConnection: 0 ], Error: RCommand (Timeout)
+2019/08/25 15:54:55.878 17040 10804 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380688 remoteConnection: 0 ] Resetting connection due to error RCommand (Timeout)
+2019/08/25 15:54:55.878 17040 10804 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, retrying (2 retries remaining) BCmd: CC=19 CT=3
+2019/08/25 15:54:55.878 17040 20484 S0!! SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 13, connection ID: 1295380688] errorcode: Timeout(1)
+2019/08/25 15:55:07.880 17040 10804 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380689 remoteConnection: 0 ], Error: RCommand (Timeout)
+2019/08/25 15:55:07.880 17040 10804 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380689 remoteConnection: 0 ] Resetting connection due to error RCommand (Timeout)
+2019/08/25 15:55:07.880 17040 10804 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, retrying (1 retries remaining) BCmd: CC=19 CT=3
+2019/08/25 15:55:12.787 17040 17836 S0!  CTcpConnection[20]::KeepAliveBeepTimerHandler(): No KeepAliveBeepAnswer was sent. Stopping connection.
+2019/08/25 15:55:19.882 17040 20484 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380690 remoteConnection: 0 ], Error: RCommand (Timeout)
+2019/08/25 15:55:19.882 17040 20484 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380690 remoteConnection: 0 ] Resetting connection due to error RCommand (Timeout)
+2019/08/25 15:55:19.882 17040 20484 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:1, not retrying (0 retries would remain) BCmd: CC=19 CT=3
+2019/08/25 15:55:19.882 17040 20484 S0!! AsyncMessaging::UnregisterAtAsyncMessageProvider(): Unregister failed: Timeout
+2019/08/25 15:55:19.882 17040 17836 S0!! SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 13, connection ID: 1295380690] errorcode: Timeout(1)
+2019/08/25 15:55:19.885 17040 17836 S0   TcpCarrierBase[11]::HandleWrite(): Error 2 (Connection is already stopping), count 1
+2019/08/25 15:55:24.787 17040 17836 S0   IConnection[20]::HandleShutdownTimer(): Shutdown of connection took longer than 12 seconds. Closing Connection. (ConnectionType Type_Tcp)
+2019/08/25 15:55:25.132 17040  5236 S0   CarrierReconnectLogic[11]::StartReconnectAsClientInternal: TCP connect successful
+2019/08/25 15:55:25.421 17040  5236 S0!  TcpCarrier[11]::ProcessReconnectToSessionAnswer(): Reconnect failed with client 764467096
+2019/08/25 15:55:25.421 17040  5236 S0   Carrier[11]::EndCarrierInternal(): ClientID: 764467096 SupportsEndSession: 1, SupportsCCmd2: 1, SessionType_MainKeepAliveConnection, SendQueue: 1 (0 Bytes), CurrentSendQueue: 0 (0 Bytes), SendCache: 10 (18009 Bytes)
+2019/08/25 15:55:25.421 17040  5236 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380691 remoteConnection: 0 ], Error: RCommand (Cancel)
+2019/08/25 15:55:25.421 17040  5236 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 13 connection: 1295380691 remoteConnection: 0 ] Resetting connection due to error RCommand (Cancel)
+2019/08/25 15:55:25.421 17040  5236 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error RCommand:3, not retrying (2 retries would remain) BCmd: CC=19 CT=3
+2019/08/25 15:55:25.421 17040  5236 S0!! AsyncMessaging::UnregisterAtAsyncMessageProvider(): Unregister failed: Cancel
+2019/08/25 15:55:25.421 17040 19284 S0!! SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 13, connection ID: 1295380691] errorcode: Cancel(3)
+2019/08/25 15:55:25.421 17040  5236 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 15:55:25.421 17040  5236 S0   CKeepAliveClientClient::HandleKeepAliveEnded: doing nothing, state = 4
+2019/08/25 15:55:25.421 17040  5236 S0!  KeepAliveSessionOutgoing::ConnectEndedHandler(): KeepAliveConnection with router8.teamviewer.com ended
+2019/08/25 15:55:25.422 19924 21120 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2019/08/25 15:55:25.422 19924 21120 G1   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2019/08/25 15:55:25.422 19924 21120 G1   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 96811dea-f1b2-422e-aa0c-4b84562cb909)
+2019/08/25 15:55:25.422 19924 21120 G1   AccountLoginStateMachine::RegisterForKeepAlive: lost connection
+2019/08/25 15:55:25.422 19924 19868 G1   Account::UpdateState: KA = 0, active = 1
+2019/08/25 15:55:25.422 17040 16636 S0   SecureNetworkIPCAdapter::UnregisterSharedBCmdCallback(): RegistrationID: 96811dea-f1b2-422e-aa0c-4b84562cb909
+2019/08/25 15:55:25.422 19924 21120 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 15:55:25.422 19924 21120 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 15:55:25.433 19924 18496 G1   Account::SetLoginState: new state: 0
+2019/08/25 15:55:25.433 19924 18496 G1   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2019/08/25 15:55:25.433 19924 21120 G1   ChatManager::ClearNonAccountChat
+2019/08/25 15:55:25.437 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 15:55:25.439 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 15:55:26.421 17040 20484 S0   CKeepAliveClientClient::StartConnect(): Protocol 8 proxy --
+2019/08/25 15:55:26.421 17040 20484 S0   Activating Router carrier
+2019/08/25 15:55:31.740 17040 20484 S0   CTcpConnectionBase[22]::HandleConnectTimeout(). Connect timed out to router4.teamviewer.com:5938
+2019/08/25 15:55:31.740 17040 21132 S0!  CTcpConnectionBase[22]::HandleConnect: Connect aborted to dest-ip router4.teamviewer.com:5938 with error system:995.
+2019/08/25 15:55:31.740 17040 18772 S0!  CProcessCommandHandlerKeepAlive[12]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 15:55:31.740 17040 18772 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router4.teamviewer.com failed
+2019/08/25 15:55:31.740 17040 21132 S0   CKeepAliveClientClient::StartConnect(): Protocol 4 proxy --
+2019/08/25 15:55:31.740 17040 21132 S0   Activating Router carrier
+2019/08/25 15:55:32.090 17040 18772 S0   KeepAliveSessionOutgoing::ConnectSuccessHandler(): KeepAliveConnect to router12.teamviewer.com successful
+2019/08/25 15:55:32.090 17040 18772 S0   KeepAliveSessionOutgoing::KeepAliveChannelInitialized(): KeepAliveConnection to router12.teamviewer.com initialized
+2019/08/25 15:55:32.090 17040 18772 S0!! KeepAliveSession::KeepAliveChannelInitialized(): KeepAlive-Connection initialized with ID 0 (IP: 0.0.0.0), SendQueue 9 (18009 Bytes), SendIndex 8, AckIndex 0, RemoteSessionID 13
+2019/08/25 15:55:32.090 17040 18772 S0   RCmdAckMap::RemoveAckHandler(): AckMapEntry not found, CmdID 98706366, TargetID 13, SenderID: 1130394922, AckResult: 8, Payload: 0 Bytes
+2019/08/25 15:55:32.090 17040 18772 S0!  KeepAliveSession::SendCompleteQueue(): SendQueue: 0 (0 Bytes), RemoteSession 13 (ClientID 0), Time: 0 ms
+2019/08/25 15:55:32.090 17040 18772 S0   IdentifyRequest: ID = 1130394922, IC = -374303197, IsTemporaryID = 0, InitiativeGUID = 938953a3-9960-4bdc-a5b5-eacc2baa5509, CanStoreGUID = 1, MIDHistory = {0x8cec4ba291e1_1d3d1ee2cdc07fa_645865821|u4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b|v4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006|windows034c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006}, MIDv = 2, MaxSupportedMIDv = 3, RebootHash = {fc048989-7988-c9b3-8c3f-5b6ec5a8372e}, MIDFlags = 1, MIDForceUpdateFlags = 0, AttractionGUID = 00000000-0000-0000-0000-000000000000
+2019/08/25 15:55:32.651 17040 19284 S0   TVRouterClock: received router time: 20190825T075533.364285
+2019/08/25 15:55:32.651 17040 19284 S0   TVRouterClock Schedule next request in 43200 seconds
+2019/08/25 15:55:32.651 19924 21120 G1   IpcRouterClock: received router time: 20190825T075533.364285
+2019/08/25 15:55:42.289 17040 21132 S0   Login::Identify::ManageLogin(): ID: 1130394922 IC -374303197 MIDv2
+2019/08/25 15:55:42.291 17040 21132 S0   CKeepAliveClientClient::OnKeepAliveSucceeded(): Protocol 4 proxy --
+2019/08/25 15:55:51.581 17040 19284 S0   Non-Commercial use
+2019/08/25 15:55:52.963 17040 16636 S0   SyncManagersFunction::Start: current managerlist size: 0
+2019/08/25 15:55:52.964 17040 16636 S0   Client logged in and online
+2019/08/25 15:55:52.964 19924 21120 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2019/08/25 15:55:52.965 19924 21120 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: cdfeb810-98b6-4cbb-aa55-6dafb069dc16)
+2019/08/25 15:55:52.965 19924 21120 G1   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2019/08/25 15:55:52.966 17040 21132 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 25, RegistrationID: cdfeb810-98b6-4cbb-aa55-6dafb069dc16, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 15:55:52.966 19924 21120 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 1d0ff847-2054-4009-ad68-9d44f068562f)
+2019/08/25 15:55:52.966 19924 21120 G1   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 38aa7663-6d12-493f-a6a4-54a60ab71d5b)
+2019/08/25 15:55:52.966 19924 19868 G1   Account::UpdateState: KA = 1, active = 1
+2019/08/25 15:55:52.966 19924 21120 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2019/08/25 15:55:52.967 17040 19284 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 61, RegistrationID: 1d0ff847-2054-4009-ad68-9d44f068562f, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 15:55:52.968 17040 19284 S0   SecureNetworkIPCAdapter::UnregisterSharedBCmdCallback(): RegistrationID: 38aa7663-6d12-493f-a6a4-54a60ab71d5b
+2019/08/25 15:55:52.992 19924 18496 G1   Account::SetLoginState: new state: 2
+2019/08/25 15:55:52.992 19924 18496 G1   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2019/08/25 15:55:52.993 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 15:55:52.995 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 15:55:55.507 17040 19284 S0   AsyncMessaging::UnregisterAtAsyncMessageProvider(): Unregister successful
+2019/08/25 16:08:31.518 17040 18772 S0!  CTcpConnection[23]::KeepAliveBeepTimerHandler(): No KeepAliveBeepAnswer was sent. Stopping connection.
+2019/08/25 16:08:43.519 17040 20484 S0   IConnection[23]::HandleShutdownTimer(): Shutdown of connection took longer than 12 seconds. Closing Connection. (ConnectionType Type_Tcp)
+2019/08/25 16:08:48.294 17040 20484 S0!! CurlMultiShared::ExtractConnectSocketFor(): curl didn't release socket
+2019/08/25 16:08:48.294 17040 20484 S0!! HttpRequestImpl::CurlFinished: CONNECT succeeded but couldn't extract socket
+2019/08/25 16:08:48.294 17040 20484 S0!! Port443Connection::RequestFinishedCallback: failed with HTTP status code = 0
+2019/08/25 16:08:52.630 17040 21132 S0!! CurlMultiShared::ExtractConnectSocketFor(): curl didn't release socket
+2019/08/25 16:08:52.630 17040 21132 S0!! HttpRequestImpl::CurlFinished: CONNECT succeeded but couldn't extract socket
+2019/08/25 16:08:52.630 17040 21132 S0!! Port443Connection::RequestFinishedCallback: failed with HTTP status code = 0
+2019/08/25 16:08:59.133 17040 20484 S0!! CurlMultiShared::ExtractConnectSocketFor(): curl didn't release socket
+2019/08/25 16:08:59.133 17040 20484 S0!! HttpRequestImpl::CurlFinished: CONNECT succeeded but couldn't extract socket
+2019/08/25 16:08:59.133 17040 20484 S0!! Port443Connection::RequestFinishedCallback: failed with HTTP status code = 0
+2019/08/25 16:09:07.092 17040 21132 S0   CarrierReconnectLogic[13]::StartReconnectAsClientInternal: TCP connect successful
+2019/08/25 16:09:07.830 17040 16636 S0!  TcpCarrier[13]::ProcessReconnectToSessionAnswer(): Reconnect failed with client 868230532
+2019/08/25 16:09:07.830 17040 16636 S0   Carrier[13]::EndCarrierInternal(): ClientID: 868230532 SupportsEndSession: 1, SupportsCCmd2: 1, SessionType_MainKeepAliveConnection, SendQueue: 1 (0 Bytes), CurrentSendQueue: 0 (0 Bytes), SendCache: 1 (0 Bytes)
+2019/08/25 16:09:07.830 17040 16636 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 16:09:07.830 17040 16636 S0   CKeepAliveClientClient::HandleKeepAliveEnded: doing nothing, state = 4
+2019/08/25 16:09:07.830 17040 16636 S0!  KeepAliveSessionOutgoing::ConnectEndedHandler(): KeepAliveConnection with router12.teamviewer.com ended
+2019/08/25 16:09:07.831 19924 21120 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2019/08/25 16:09:07.831 19924 21120 G1   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2019/08/25 16:09:07.831 19924 21120 G1   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: cdfeb810-98b6-4cbb-aa55-6dafb069dc16)
+2019/08/25 16:09:07.831 19924 21120 G1   AccountLoginStateMachine::RegisterForKeepAlive: lost connection
+2019/08/25 16:09:07.831 19924  2464 G1   Account::UpdateState: KA = 0, active = 1
+2019/08/25 16:09:07.831 19924 21120 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 16:09:07.831 19924 21120 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 16:09:07.831 17040 18772 S0   SecureNetworkIPCAdapter::UnregisterSharedBCmdCallback(): RegistrationID: cdfeb810-98b6-4cbb-aa55-6dafb069dc16
+2019/08/25 16:09:07.836 19924 18496 G1   Account::SetLoginState: new state: 0
+2019/08/25 16:09:07.836 19924 18496 G1   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2019/08/25 16:09:07.836 19924 20560 G1   ChatManager::ClearNonAccountChat
+2019/08/25 16:09:07.837 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 16:09:07.840 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 16:09:08.830 17040  6384 S0   CKeepAliveClientClient::StartConnect(): Protocol 8 proxy --
+2019/08/25 16:09:08.830 17040  6384 S0   Activating Router carrier
+2019/08/25 16:09:14.582 17040 20484 S0   CTcpConnectionBase[28]::HandleConnectTimeout(). Connect timed out to router9.teamviewer.com:5938
+2019/08/25 16:09:14.582 17040 16636 S0!  CProcessCommandHandlerKeepAlive[14]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 16:09:14.582 17040 16636 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router9.teamviewer.com failed
+2019/08/25 16:09:14.582 17040 19284 S0!  CTcpConnectionBase[28]::HandleConnect: Connect aborted to dest-ip router9.teamviewer.com:5938 with error system:995.
+2019/08/25 16:09:14.582 17040  6384 S0   CKeepAliveClientClient::StartConnect(): Protocol 4 proxy --
+2019/08/25 16:09:14.582 17040  6384 S0   Activating Router carrier
+2019/08/25 16:09:17.193 17040 19284 S0!! CurlMultiShared::ExtractConnectSocketFor(): curl didn't release socket
+2019/08/25 16:09:17.193 17040 19284 S0!! HttpRequestImpl::CurlFinished: CONNECT succeeded but couldn't extract socket
+2019/08/25 16:09:17.193 17040 19284 S0!! Port443Connection::RequestFinishedCallback: failed with HTTP status code = 0
+2019/08/25 16:09:17.193 17040 16636 S0!  CProcessCommandHandlerKeepAlive[15]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 16:09:17.193 17040 16636 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router10.teamviewer.com failed
+2019/08/25 16:09:17.193 17040 19284 S0   CKeepAliveClientClient::StartConnect(): Protocol 2 proxy --
+2019/08/25 16:09:17.193 17040 19284 S0   Activating Router carrier
+2019/08/25 16:09:22.289 17040 18772 S0   CHttpConnectionOutgoing::ConnectHttpFastInternal(): Connect HttpFast to SG-SGP-IBM-R009.teamviewer.com:80 was successful
+2019/08/25 16:09:22.289 17040 20484 S0   KeepAliveSessionOutgoing::ConnectSuccessHandler(): KeepAliveConnect to router13.teamviewer.com successful
+2019/08/25 16:09:22.289 17040 20484 S0   KeepAliveSessionOutgoing::KeepAliveChannelInitialized(): KeepAliveConnection to router13.teamviewer.com initialized
+2019/08/25 16:09:22.289 17040 20484 S0!! KeepAliveSession::KeepAliveChannelInitialized(): KeepAlive-Connection initialized with ID 0 (IP: 0.0.0.0), SendQueue 0 (0 Bytes), SendIndex 0, AckIndex 0, RemoteSessionID 16
+2019/08/25 16:09:22.289 17040 20484 S0!  KeepAliveSession::SendCompleteQueue(): SendQueue: 0 (0 Bytes), RemoteSession 16 (ClientID 0), Time: 0 ms
+2019/08/25 16:09:22.289 17040 20484 S0   IdentifyRequest: ID = 1130394922, IC = -374303197, IsTemporaryID = 0, InitiativeGUID = 938953a3-9960-4bdc-a5b5-eacc2baa5509, CanStoreGUID = 1, MIDHistory = {0x8cec4ba291e1_1d3d1ee2cdc07fa_645865821|u4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b|v4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006|windows034c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006}, MIDv = 2, MaxSupportedMIDv = 3, RebootHash = {fc048989-7988-c9b3-8c3f-5b6ec5a8372e}, MIDFlags = 1, MIDForceUpdateFlags = 0, AttractionGUID = 00000000-0000-0000-0000-000000000000
+2019/08/25 16:09:26.247 17040 21132 S0   TVRouterClock: received router time: 20190825T080923.582591
+2019/08/25 16:09:26.247 17040 21132 S0   TVRouterClock Schedule next request in 43200 seconds
+2019/08/25 16:09:26.247 17040 20484 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 16:09:26.247 19924 21120 G1   IpcRouterClock: received router time: 20190825T080923.582591
+2019/08/25 16:10:22.673 17040 16636 S0   Carrier[16]::CmdEndSession(): Received CMD_ENDSESSION with reason: KeepAliveTimeout
+2019/08/25 16:10:22.955 17040 18772 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 16:10:22.955 17040 18772 S0   CKeepAliveClientClient::HandleKeepAliveEnded: doing nothing, state = 4
+2019/08/25 16:10:22.955 17040 18772 S0!  KeepAliveSessionOutgoing::ConnectEndedHandler(): KeepAliveConnection with router13.teamviewer.com ended
+2019/08/25 16:10:23.955 17040 20484 S0   CKeepAliveClientClient::StartConnect(): Protocol 1 proxy --
+2019/08/25 16:10:23.955 17040 20484 S0   Activating Router carrier
+2019/08/25 16:10:25.925 17040  6384 S0   KeepAliveSessionOutgoing::ConnectSuccessHandler(): KeepAliveConnect to router3.teamviewer.com successful
+2019/08/25 16:10:25.925 17040  6384 S0   KeepAliveSessionOutgoing::KeepAliveChannelInitialized(): KeepAliveConnection to router3.teamviewer.com initialized
+2019/08/25 16:10:25.925 17040  6384 S0!! KeepAliveSession::KeepAliveChannelInitialized(): KeepAlive-Connection initialized with ID 0 (IP: 0.0.0.0), SendQueue 0 (0 Bytes), SendIndex 0, AckIndex 0, RemoteSessionID 17
+2019/08/25 16:10:25.925 17040  6384 S0!  KeepAliveSession::SendCompleteQueue(): SendQueue: 0 (0 Bytes), RemoteSession 17 (ClientID 0), Time: 0 ms
+2019/08/25 16:10:25.925 17040  6384 S0   IdentifyRequest: ID = 1130394922, IC = -374303197, IsTemporaryID = 0, InitiativeGUID = 938953a3-9960-4bdc-a5b5-eacc2baa5509, CanStoreGUID = 1, MIDHistory = {0x8cec4ba291e1_1d3d1ee2cdc07fa_645865821|u4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b|v4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006|windows034c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006}, MIDv = 2, MaxSupportedMIDv = 3, RebootHash = {fc048989-7988-c9b3-8c3f-5b6ec5a8372e}, MIDFlags = 1, MIDForceUpdateFlags = 0, AttractionGUID = 00000000-0000-0000-0000-000000000000
+2019/08/25 16:10:28.627 17040  6384 S0   TVRouterClock: received router time: 20190825T081027.476502
+2019/08/25 16:10:28.627 17040  6384 S0   TVRouterClock Schedule next request in 43200 seconds
+2019/08/25 16:10:28.627 17040 20484 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 16:10:28.627 19924 20560 G1   IpcRouterClock: received router time: 20190825T081027.476502
+2019/08/25 16:10:30.867 17040 18772 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 42 connection: 1 remoteConnection: 0 ], Error: SecureNetwork (Connection not found)
+2019/08/25 16:10:30.867 17040 18772 S0!! Communication::Messenger::SendAnonymousMessage: error: Could not connect
+2019/08/25 16:10:30.867 17040 18772 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 16:10:30.867 17040  3440 S0!! SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 42, connection ID: 1] errorcode: Connection not found(7)
+2019/08/25 16:11:26.452 17040 19284 S0   Carrier[17]::CmdEndSession(): Received CMD_ENDSESSION with reason: KeepAliveTimeout
+2019/08/25 16:11:46.452 17040 19284 S0   IProcessCommandHandler[17]::HandleShutdownTimer(): Timeout (20 s) reached, ID: 0, IP: 0.0.0.0:80, Type_Http, SessionType_MainKeepAliveConnection, SupportsCCmdV2: 1, Reason: 5/5, SupportsEndSession: 1, EndSessionWasRecv: 1, FinalCmdWasAck: 0, FinalAckWasSent: 1
+2019/08/25 16:11:46.452 17040 19284 S0   Carrier[17]::EndCarrierInternal(): ClientID: 0 SupportsEndSession: 1, SupportsCCmd2: 1, SessionType_MainKeepAliveConnection, SendQueue: 1 (0 Bytes), CurrentSendQueue: 0 (0 Bytes), SendCache: 1 (4 Bytes)
+2019/08/25 16:11:46.452 17040 19284 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 16:11:46.452 17040 19284 S0   CKeepAliveClientClient::HandleKeepAliveEnded: doing nothing, state = 4
+2019/08/25 16:11:46.452 17040 19284 S0!  KeepAliveSessionOutgoing::ConnectEndedHandler(): KeepAliveConnection with router3.teamviewer.com ended
+2019/08/25 16:11:47.453 17040  3440 S0   CKeepAliveClientClient::StartConnect(): Protocol 8 proxy --
+2019/08/25 16:11:47.453 17040  3440 S0   Activating Router carrier
+2019/08/25 16:11:47.876 17040 14796 S0   KeepAliveSessionOutgoing::ConnectSuccessHandler(): KeepAliveConnect to router9.teamviewer.com successful
+2019/08/25 16:11:47.876 17040 14796 S0   KeepAliveSessionOutgoing::KeepAliveChannelInitialized(): KeepAliveConnection to router9.teamviewer.com initialized
+2019/08/25 16:11:47.876 17040 14796 S0!! KeepAliveSession::KeepAliveChannelInitialized(): KeepAlive-Connection initialized with ID 0 (IP: 2401:c900:1001:163::3), SendQueue 0 (0 Bytes), SendIndex 0, AckIndex 0, RemoteSessionID 18
+2019/08/25 16:11:47.876 17040 14796 S0!  KeepAliveSession::SendCompleteQueue(): SendQueue: 0 (0 Bytes), RemoteSession 18 (ClientID 0), Time: 0 ms
+2019/08/25 16:11:47.876 17040 14796 S0   IdentifyRequest: ID = 1130394922, IC = -374303197, IsTemporaryID = 0, InitiativeGUID = 938953a3-9960-4bdc-a5b5-eacc2baa5509, CanStoreGUID = 1, MIDHistory = {0x8cec4ba291e1_1d3d1ee2cdc07fa_645865821|u4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b|v4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006|windows034c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006}, MIDv = 2, MaxSupportedMIDv = 3, RebootHash = {fc048989-7988-c9b3-8c3f-5b6ec5a8372e}, MIDFlags = 1, MIDForceUpdateFlags = 0, AttractionGUID = 00000000-0000-0000-0000-000000000000
+2019/08/25 16:11:49.565 17040  6384 S0   TVRouterClock: received router time: 20190825T081149.374813
+2019/08/25 16:11:49.565 17040  6384 S0   TVRouterClock Schedule next request in 43200 seconds
+2019/08/25 16:11:49.565 17040 20484 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 16:11:49.565 19924 20560 G1   IpcRouterClock: received router time: 20190825T081149.374813
+2019/08/25 16:11:51.383 17040 21132 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 42 connection: 1 remoteConnection: 0 ], Error: SecureNetwork (Connection not found)
+2019/08/25 16:11:51.383 17040 21132 S0!! Communication::Messenger::SendAnonymousMessage: error: Could not connect
+2019/08/25 16:11:51.383 17040 21132 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 16:11:51.383 17040 16636 S0!! SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 42, connection ID: 1] errorcode: Connection not found(7)
+2019/08/25 16:12:48.334 17040 14796 S0   Carrier[18]::CmdEndSession(): Received CMD_ENDSESSION with reason: KeepAliveTimeout
+2019/08/25 16:12:48.543 17040 21132 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 16:12:48.543 17040 21132 S0   CKeepAliveClientClient::HandleKeepAliveEnded: doing nothing, state = 4
+2019/08/25 16:12:48.543 17040 21132 S0!  KeepAliveSessionOutgoing::ConnectEndedHandler(): KeepAliveConnection with router9.teamviewer.com ended
+2019/08/25 16:12:49.544 17040 19284 S0   CKeepAliveClientClient::StartConnect(): Protocol 4 proxy --
+2019/08/25 16:12:49.544 17040 19284 S0   Activating Router carrier
+2019/08/25 16:12:51.501 17040 19284 S0   KeepAliveSessionOutgoing::ConnectSuccessHandler(): KeepAliveConnect to router5.teamviewer.com successful
+2019/08/25 16:12:51.501 17040 19284 S0   KeepAliveSessionOutgoing::KeepAliveChannelInitialized(): KeepAliveConnection to router5.teamviewer.com initialized
+2019/08/25 16:12:51.501 17040 19284 S0!! KeepAliveSession::KeepAliveChannelInitialized(): KeepAlive-Connection initialized with ID 0 (IP: 0.0.0.0), SendQueue 0 (0 Bytes), SendIndex 0, AckIndex 0, RemoteSessionID 19
+2019/08/25 16:12:51.501 17040 19284 S0!  KeepAliveSession::SendCompleteQueue(): SendQueue: 0 (0 Bytes), RemoteSession 19 (ClientID 0), Time: 0 ms
+2019/08/25 16:12:51.501 17040 19284 S0   IdentifyRequest: ID = 1130394922, IC = -374303197, IsTemporaryID = 0, InitiativeGUID = 938953a3-9960-4bdc-a5b5-eacc2baa5509, CanStoreGUID = 1, MIDHistory = {0x8cec4ba291e1_1d3d1ee2cdc07fa_645865821|u4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b|v4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006|windows034c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006}, MIDv = 2, MaxSupportedMIDv = 3, RebootHash = {fc048989-7988-c9b3-8c3f-5b6ec5a8372e}, MIDFlags = 1, MIDForceUpdateFlags = 0, AttractionGUID = 00000000-0000-0000-0000-000000000000
+2019/08/25 16:12:52.049 17040 20484 S0   TVRouterClock: received router time: 20190825T081252.908746
+2019/08/25 16:12:52.049 17040 20484 S0   TVRouterClock Schedule next request in 43200 seconds
+2019/08/25 16:12:52.050 19924 21120 G1   IpcRouterClock: received router time: 20190825T081252.908746
+2019/08/25 16:12:53.623 17040 21132 S0   SecureNetworkConnection::SendCallbackHandler(): [ remoteID: 42 connection: 1 remoteConnection: 0 ], Error: SecureNetwork (Connection not found)
+2019/08/25 16:12:53.623 17040 21132 S0!! Communication::Messenger::SendAnonymousMessage: error: Could not connect
+2019/08/25 16:12:53.624 17040 21132 S0   CKeepAliveClientClient::OnKeepAliveSucceeded(): Protocol 4 proxy --
+2019/08/25 16:12:53.624 17040 16636 S0!! SecureNetworkHandshake::ReceiveAckCallback: [remote ID: 42, connection ID: 1] errorcode: Connection not found(7)
+2019/08/25 16:12:55.610 17040 18772 S0   Login::Identify::ManageLogin(): ID: 1130394922 IC -374303197 MIDv2
+2019/08/25 16:12:55.612 17040 18772 S0   CKeepAliveClientClient::OnKeepAliveSucceeded(): Protocol 4 proxy --
+2019/08/25 16:12:58.635 17040 19284 S0   Non-Commercial use
+2019/08/25 16:13:01.160 17040 20484 S0   SyncManagersFunction::Start: current managerlist size: 0
+2019/08/25 16:13:01.162 17040 20484 S0   Client logged in and online
+2019/08/25 16:13:01.162 19924 20560 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2019/08/25 16:13:01.163 19924 20560 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 41b18753-8432-4b1a-a58a-97ecb733d1a2)
+2019/08/25 16:13:01.163 19924 20560 G1   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2019/08/25 16:13:01.163 17040 18772 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 25, RegistrationID: 41b18753-8432-4b1a-a58a-97ecb733d1a2, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 16:13:01.163 19924 20560 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 7e0476f9-5413-44e1-b255-d0f4894d2fa9)
+2019/08/25 16:13:01.163 19924 20560 G1   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 1d0ff847-2054-4009-ad68-9d44f068562f)
+2019/08/25 16:13:01.163 19924  8892 G1   Account::UpdateState: KA = 1, active = 1
+2019/08/25 16:13:01.163 19924 20560 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2019/08/25 16:13:01.164 17040  6384 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 61, RegistrationID: 7e0476f9-5413-44e1-b255-d0f4894d2fa9, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 16:13:01.164 17040 18772 S0   SecureNetworkIPCAdapter::UnregisterSharedBCmdCallback(): RegistrationID: 1d0ff847-2054-4009-ad68-9d44f068562f
+2019/08/25 16:13:01.189 19924 18496 G1   Account::SetLoginState: new state: 2
+2019/08/25 16:13:01.189 19924 18496 G1   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2019/08/25 16:13:01.190 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 16:13:01.193 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 16:13:02.747 17040 19284 S0   AsyncMessaging::UnregisterAtAsyncMessageProvider(): Unregister successful
+2019/08/25 16:14:29.042 19924 18496 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=342250)
+2019/08/25 16:15:28.104 19924  8892 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=0, LastAutoUpdate=1566715288, AdminRights=1
+2019/08/25 17:04:29.041 19924 18496 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=355484)
+2019/08/25 17:05:28.144 19924  8892 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=0, LastAutoUpdate=1566715288, AdminRights=1
+2019/08/25 17:31:21.880 17040 19616 S0   SERVICE_CONTROL_POWEREVENT 32787
+2019/08/25 17:31:21.880 17040 19616 S0   SERVICE_CONTROL_POWEREVENT 32787
+2019/08/25 17:31:37.054 17040 19616 S0   SERVICE_CONTROL_POWEREVENT 32787
+2019/08/25 17:31:37.054 17040 19616 S0   SERVICE_CONTROL_POWEREVENT 32787
+2019/08/25 17:53:34.274 17040 19616 S0   SERVICE_CONTROL_POWEREVENT 32787
+2019/08/25 17:53:34.274 17040 19616 S0   SERVICE_CONTROL_POWEREVENT 32787
+2019/08/25 18:33:29.045 19924 18496 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=304093)
+2019/08/25 18:34:28.208 19924 20560 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=0, LastAutoUpdate=1566715288, AdminRights=1
+2019/08/25 19:32:29.041 19924 18496 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=304375)
+2019/08/25 19:33:28.255 19924 20560 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=0, LastAutoUpdate=1566715288, AdminRights=1
+2019/08/25 19:54:29.042 19924 18496 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=328375)
+2019/08/25 19:55:28.283 19924 20560 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=0, LastAutoUpdate=1566715288, AdminRights=1
+2019/08/25 20:14:20.689 17040 19284 S0   CKeepAliveClientClient::HandleStartKeepAlive: doing nothing, state = 4 usedProtocol = 4
+2019/08/25 20:14:26.314 17040 18772 S0   CKeepAliveClientClient::HandleStartKeepAlive: doing nothing, state = 4 usedProtocol = 4
+2019/08/25 20:15:03.783 17040 20484 S0!  CTcpConnection[33]::KeepAliveBeepTimerHandler(): No KeepAliveBeepAnswer was sent. Stopping connection.
+2019/08/25 20:15:15.784 17040 20484 S0   IConnection[33]::HandleShutdownTimer(): Shutdown of connection took longer than 12 seconds. Closing Connection. (ConnectionType Type_Tcp)
+2019/08/25 20:15:20.785 17040 16636 S0!! HttpRequestImpl::CurlFinished(): curl request failed: Timeout was reached (28), Connection timed out after 5000 milliseconds
+2019/08/25 20:15:20.785 17040 16636 S0!! Port443Connection::RequestFinishedCallback: failed with HTTP status code = 0
+2019/08/25 20:15:26.785 17040 20484 S0!! HttpRequestImpl::CurlFinished(): curl request failed: Timeout was reached (28), Connection timed out after 5000 milliseconds
+2019/08/25 20:15:26.785 17040 20484 S0!! Port443Connection::RequestFinishedCallback: failed with HTTP status code = 0
+2019/08/25 20:15:27.571 17040 16636 S0   CKeepAliveClientClient::HandleStartKeepAlive: doing nothing, state = 4 usedProtocol = 4
+2019/08/25 20:15:29.296 17040 16636 S0   CKeepAliveClientClient::HandleStartKeepAlive: doing nothing, state = 4 usedProtocol = 4
+2019/08/25 20:15:31.252 17040 20484 S0   CarrierReconnectLogic[19]::StartReconnectAsClientInternal: TCP connect successful
+2019/08/25 20:15:31.659 17040 19284 S0   TcpCarrier[19]::ProcessReconnectToSessionAnswer(): Reconnect was successful with client 921164028. SendQueueEmpty: 1
+2019/08/25 20:15:31.659 17040 19284 S0   TcpCarrierBase[19]::ResendSendCache(): SendCacheSize 1 (0 Bytes) [287,287]
+2019/08/25 20:18:03.985 17040  4876 S0   NetWatchdog: Internet is now disconnected
+2019/08/25 20:18:03.985 17040 18772 S0   CKeepAliveClientClient::HandleStartKeepAlive: doing nothing, state = 4 usedProtocol = 4
+2019/08/25 20:18:07.497 17040  4876 S0   NetWatchdog: Internet is now connected
+2019/08/25 20:18:07.497 17040 21132 S0   CKeepAliveClientClient::HandleStartKeepAlive: doing nothing, state = 4 usedProtocol = 4
+2019/08/25 20:18:08.778 17040 16636 S0   CKeepAliveClientClient::HandleStartKeepAlive: doing nothing, state = 4 usedProtocol = 4
+2019/08/25 20:18:11.342 17040 21132 S0   CKeepAliveClientClient::HandleStartKeepAlive: doing nothing, state = 4 usedProtocol = 4
+2019/08/25 20:18:13.719 17040 19284 S0   CKeepAliveClientClient::HandleStartKeepAlive: doing nothing, state = 4 usedProtocol = 4
+2019/08/25 20:18:16.255 17040 21132 S0!! CurlMultiShared::ExtractConnectSocketFor(): curl didn't release socket
+2019/08/25 20:18:16.255 17040 21132 S0!! HttpRequestImpl::CurlFinished: CONNECT succeeded but couldn't extract socket
+2019/08/25 20:18:16.255 17040 21132 S0!! Port443Connection::RequestFinishedCallback: failed with HTTP status code = 0
+2019/08/25 20:18:18.207 17040 19284 S0   CarrierReconnectLogic[19]::StartReconnectAsClientInternal: TCP connect successful
+2019/08/25 20:18:19.140 17040 18772 S0!  TcpCarrier[19]::ProcessReconnectToSessionAnswer(): Reconnect failed with client 921164028
+2019/08/25 20:18:19.141 17040 18772 S0   TVRouterClock Schedule next request in 0 seconds
+2019/08/25 20:18:19.141 17040 18772 S0   CKeepAliveClientClient::HandleKeepAliveEnded: doing nothing, state = 4
+2019/08/25 20:18:19.141 17040 18772 S0!  KeepAliveSessionOutgoing::ConnectEndedHandler(): KeepAliveConnection with router5.teamviewer.com ended
+2019/08/25 20:18:19.141 19924  8892 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2019/08/25 20:18:19.141 19924  8892 G1   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2019/08/25 20:18:19.141 19924  8892 G1   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 41b18753-8432-4b1a-a58a-97ecb733d1a2)
+2019/08/25 20:18:19.141 19924  8892 G1   AccountLoginStateMachine::RegisterForKeepAlive: lost connection
+2019/08/25 20:18:19.141 19924  9316 G1   Account::UpdateState: KA = 0, active = 1
+2019/08/25 20:18:19.141 19924  8892 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 20:18:19.142 17040 19284 S0   SecureNetworkIPCAdapter::UnregisterSharedBCmdCallback(): RegistrationID: 41b18753-8432-4b1a-a58a-97ecb733d1a2
+2019/08/25 20:18:19.142 19924  8892 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/08/25 20:18:19.217 19924 18496 G1   Account::SetLoginState: new state: 0
+2019/08/25 20:18:19.217 19924 18496 G1   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2019/08/25 20:18:19.217 19924  8892 G1   ChatManager::ClearNonAccountChat
+2019/08/25 20:18:19.220 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 20:18:19.227 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 20:18:20.141 17040 19284 S0   CKeepAliveClientClient::StartConnect(): Protocol 8 proxy --
+2019/08/25 20:18:20.141 17040 19284 S0   Activating Router carrier
+2019/08/25 20:18:26.431 17040 16636 S0   CTcpConnectionBase[39]::HandleConnectTimeout(). Connect timed out to router15.teamviewer.com:5938
+2019/08/25 20:18:26.431 17040 21132 S0!  CProcessCommandHandlerKeepAlive[20]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 20:18:26.431 17040 21132 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router15.teamviewer.com failed
+2019/08/25 20:18:26.431 17040 20484 S0!  CTcpConnectionBase[39]::HandleConnect: Connect aborted to dest-ip router15.teamviewer.com:5938 with error system:995.
+2019/08/25 20:18:26.431 17040 16636 S0   CKeepAliveClientClient::StartConnect(): Protocol 4 proxy --
+2019/08/25 20:18:26.431 17040 16636 S0   Activating Router carrier
+2019/08/25 20:18:29.100 17040 18772 S0!! CurlMultiShared::ExtractConnectSocketFor(): curl didn't release socket
+2019/08/25 20:18:29.100 17040 18772 S0!! HttpRequestImpl::CurlFinished: CONNECT succeeded but couldn't extract socket
+2019/08/25 20:18:29.100 17040 18772 S0!! Port443Connection::RequestFinishedCallback: failed with HTTP status code = 0
+2019/08/25 20:18:29.100 17040 21132 S0!  CProcessCommandHandlerKeepAlive[21]::HandleKeepAliveConnect(): Connect to KeepAliveServer failed
+2019/08/25 20:18:29.100 17040 21132 S0!!!KeepAliveSessionOutgoing::ConnectFailureHandler(): KeepAliveConnect to router16.teamviewer.com failed
+2019/08/25 20:18:29.100 17040 19284 S0   CKeepAliveClientClient::StartConnect(): Protocol 2 proxy --
+2019/08/25 20:18:29.100 17040 19284 S0   Activating Router carrier
+2019/08/25 20:18:34.577 17040 19284 S0   CHttpConnectionOutgoing::ConnectHttpFastInternal(): Connect HttpFast to AU-MEL-IBM-R003.teamviewer.com:80 was successful
+2019/08/25 20:18:34.577 17040 16636 S0   KeepAliveSessionOutgoing::ConnectSuccessHandler(): KeepAliveConnect to router3.teamviewer.com successful
+2019/08/25 20:18:34.577 17040 16636 S0   KeepAliveSessionOutgoing::KeepAliveChannelInitialized(): KeepAliveConnection to router3.teamviewer.com initialized
+2019/08/25 20:18:34.577 17040 16636 S0!! KeepAliveSession::KeepAliveChannelInitialized(): KeepAlive-Connection initialized with ID 0 (IP: 0.0.0.0), SendQueue 0 (0 Bytes), SendIndex 0, AckIndex 0, RemoteSessionID 22
+2019/08/25 20:18:34.577 17040 16636 S0!  KeepAliveSession::SendCompleteQueue(): SendQueue: 0 (0 Bytes), RemoteSession 22 (ClientID 0), Time: 0 ms
+2019/08/25 20:18:34.577 17040 16636 S0   IdentifyRequest: ID = 1130394922, IC = -374303197, IsTemporaryID = 0, InitiativeGUID = 938953a3-9960-4bdc-a5b5-eacc2baa5509, CanStoreGUID = 1, MIDHistory = {0x8cec4ba291e1_1d3d1ee2cdc07fa_645865821|u4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b|v4c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006|windows034c4c4544005a5110805ac7c04f4253328cec4ba291e17fc02f2fae4d63fa910abfa45694d39b<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006}, MIDv = 2, MaxSupportedMIDv = 3, RebootHash = {fc048989-7988-c9b3-8c3f-5b6ec5a8372e}, MIDFlags = 1, MIDForceUpdateFlags = 0, AttractionGUID = 00000000-0000-0000-0000-000000000000
+2019/08/25 20:18:35.336 17040 20484 S0   TVRouterClock: received router time: 20190825T121836.154614
+2019/08/25 20:18:35.336 17040 20484 S0   TVRouterClock Schedule next request in 43200 seconds
+2019/08/25 20:18:35.336 19924 20560 G1   IpcRouterClock: received router time: 20190825T121836.154614
+2019/08/25 20:18:38.983 17040 19284 S0   Login::Identify::ManageLogin(): ID: 1130394922 IC -374303197 MIDv2
+2019/08/25 20:18:38.986 17040 19284 S0   CKeepAliveClientClient::OnKeepAliveSucceeded(): Protocol 2 proxy --
+2019/08/25 20:18:43.139 17040 20484 S0   Non-Commercial use
+2019/08/25 20:18:47.346 17040 19284 S0   SyncManagersFunction::Start: current managerlist size: 0
+2019/08/25 20:18:47.347 17040 19284 S0   Client logged in and online
+2019/08/25 20:18:47.348 19924 20560 G1   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to online
+2019/08/25 20:18:47.348 19924 20560 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 41a47fe3-f355-4f5d-9f9e-e22d8c75c25c)
+2019/08/25 20:18:47.348 19924 20560 G1   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2019/08/25 20:18:47.349 17040 20484 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 25, RegistrationID: 41a47fe3-f355-4f5d-9f9e-e22d8c75c25c, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 20:18:47.349 19924 20560 G1   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: c35907f9-7e77-4ee3-a622-5e83a4a13359)
+2019/08/25 20:18:47.349 19924 20560 G1   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 7e0476f9-5413-44e1-b255-d0f4894d2fa9)
+2019/08/25 20:18:47.349 19924 17012 G1   Account::UpdateState: KA = 1, active = 1
+2019/08/25 20:18:47.349 17040 19284 S0   SecureNetworkIPCAdapter::RegisterSharedBCmdCallback(): CC: 61, RegistrationID: c35907f9-7e77-4ee3-a622-5e83a4a13359, DyngateID: 1130394922, ProcessType: 2, SessionID: 1
+2019/08/25 20:18:47.349 19924 20560 G1   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1130394922 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2019/08/25 20:18:47.350 17040 19284 S0   SecureNetworkIPCAdapter::UnregisterSharedBCmdCallback(): RegistrationID: 7e0476f9-5413-44e1-b255-d0f4894d2fa9
+2019/08/25 20:18:47.383 19924 18496 G1   Account::SetLoginState: new state: 2
+2019/08/25 20:18:47.384 19924 18496 G1   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2019/08/25 20:18:47.385 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 20:18:47.387 19924 18496 G1!! GetWindowsRegistrationOrganization
+2019/08/25 20:18:51.147 17040 18772 S0   AsyncMessaging::UnregisterAtAsyncMessageProvider(): Unregister successful
+2019/08/25 20:30:57.746 19924 18496 G1   Tray created!
+2019/08/25 20:38:29.041 19924 18496 G1   CMainWindow::TrackIdleTime(): System goes idle. (IdleTime=355218)
+2019/08/25 20:39:28.329 19924 18040 G1   UpdateBase::CheckForAutoUpdates(): AutoUpdateMode=0, LastAutoUpdate=1566715288, AdminRights=1
+2019/08/25 22:27:08.681 19924 18496 G1!! CMainWindow::OnEndSession(): Received unknown LPARAM 1 WPARAM 1
+2019/08/25 22:27:08.681 19924 18496 G1   CMainWindow::OnEndSession: ShutdownIPC
+2019/08/25 22:27:08.681 17040 21132 S0   InterProcessNetwork: Received DisconnectIPC from processID 19924 (ProcessType: 2 in Session 1) with reason 0
+2019/08/25 22:27:08.681 19924 18040 G1   CTcpProcessConnector::HandleRead(): Socket gracefully closed (PID=17040)
+2019/08/25 22:27:08.681 17040 21132 S0   ProcessControlBase[2]::ProcessDisconnected: Process pid 19924 in session 1 disconnected
+2019/08/25 22:27:08.681 19924 18040 G1   CTcpProcessConnector::CloseConnection(): PID=17040
+2019/08/25 22:27:08.681 19924 18040 G1   InterProcessBase::EventFunctionInternal(): IPC-Connection Closed
+2019/08/25 22:27:08.681 17040 14796 S0   NetworkControl::UpdateOnlineState alwaysOnline=1 delayOffline=0 otherProcess=0 restart=0
+2019/08/25 22:27:08.681 19924 18040 G1   CTcpProcessConnector::CloseConnection(): PID=17040
+2019/08/25 22:27:08.681 17040 21132 S0   CTcpProcessConnector::HandleRead(): Socket gracefully closed (PID=19924)
+2019/08/25 22:27:08.681 17040 21132 S0   CTcpProcessConnector::CloseConnection(): PID=19924
+2019/08/25 22:27:08.681 19924 18496 G1   CMainWindow::InitCloseTV(): Prepare to close TeamViewer
+2019/08/25 22:27:08.681 17040 21132 S0   InterProcessNetwork::ProcessDisconnected(): ConnectionClosed session=1 ptype=2
+2019/08/25 22:27:08.681 19924 18496 G1   CMainWindow::OnDestroy(): Closing TeamViewer
+2019/08/25 22:27:08.681 19924 18496 G1   Chat::Stop: Stopping chat
+2019/08/25 22:27:08.697 19924 18496 G1   ChatManager::UnregisterIncomingCommandRegistration: destroying incomingCommandRegistration
+2019/08/25 22:27:08.697 19924 18496 G1   IncomingCommandRegistration::Stop: disconnecting ready state properties
+2019/08/25 22:27:08.697 19924 18496 G1   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2019/08/25 22:27:08.697 19924 18496 G1   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 41a47fe3-f355-4f5d-9f9e-e22d8c75c25c)
+2019/08/25 22:27:08.697 19924 18040 G1   ChatManager::Close
+2019/08/25 22:27:08.697 19924 18040 G1   ChatManager::UnregisterIncomingCommandRegistration: destroying incomingCommandRegistration
+2019/08/25 22:27:08.697 19924 18040 G1   ChatManager::ClearAccountChat: clearPersistently = 0
+2019/08/25 22:27:08.697 19924 18040 G1   ChatManager::ClearNonAccountChat
+2019/08/25 22:27:08.697 19924 18040 G1   ChatManager::~ChatManager: destroyed
+2019/08/25 22:27:08.697 19924 18040 G1   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: destroyed
+2019/08/25 22:27:08.697 17040 22944 S0   ProcessControlBase[2]: Process 19924 in session 1 has terminated
+2019/08/25 22:27:09.025 17040 19616 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_LOGOFF, console=1
+2019/08/25 22:27:10.462 17040 19616 S0   SERVICE_CONTROL_SHUTDOWN
+2019/08/25 22:27:10.462 17040 19284 S0   NetworkControl shutdown started
+2019/08/25 22:27:10.462 17040 19284 S0   EasyRollout::CleanupAfterAssigment
+2019/08/25 22:27:10.462 17040 19284 S0   TeamViewer is going offline!
+2019/08/25 22:27:10.462 17040 14796 S0   RetryHandle::HandleRetry(): Trying resend to 13 failed with error SecureNetworkTransport:4, retrying (2 retries remaining) BCmd: CC=19 CT=3
+2019/08/25 22:27:10.681 17040  4876 S0   NetWatchdog: Internet is now disconnected
+2019/08/25 22:27:10.681 17040  6384 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
